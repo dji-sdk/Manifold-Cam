@@ -1,13 +1,13 @@
-* What's this?
+## What's this?
 
 The manifold_cam project realizes to get the H.264 video streams from Zenmuse X3 camera, decode and display the vedio in real time. What's more, it also realizes to transfer stream data to RC.
 
-* Requirements
+## Requirements
 
 - GStreamer, FFmpeg, libusb (Install already)
 - libdcam.so, Manifold cam driver library 
 
-* Quick start
+## Quick start
  
 [1] compile with Makefile
  $ make             //compile to the obj file 'test'
