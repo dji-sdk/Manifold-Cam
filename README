@@ -21,4 +21,3 @@ Usage:
   -g --getbuffer  get NV12 format buffer
   -t --transfer   transfer vedio datas to RC
   Note: -d and -g cannot be set at the same time
-
