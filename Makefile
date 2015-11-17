@@ -1,6 +1,6 @@
 CC=gcc
 
-LIBS=-ldcam
+LIBS=-ldcam -lpthread
 
 test: test.c
 	gcc -O2 -o $@ $^ $(LIBS)

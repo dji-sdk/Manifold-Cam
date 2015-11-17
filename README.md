@@ -29,4 +29,7 @@ Usage:
 - -g --getbuffer  get NV12 format buffer
 - -t --transfer   transfer vedio datas to RC
 
-**Note: -d and -g cannot be set at the same time**
+Note:
+1  d and -g cannot be set at the same time
+2  DJI GO APP is not necessary. If the app is needed, launch the app and tap, enter camera view, and it's very important that the app should always be camera view mode.
+3  The resoulation of image frame is 1280 X 720 pixel, and the format is NV12
