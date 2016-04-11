@@ -2,6 +2,8 @@
 
 The manifold_cam project implements a functionality to get H.264 video stream from DJI Zenmuse X3 camera, decode and display the video in realtime. What's more, it also allows developers to transfer stream data to the mobile APP.
 
+**This package is specially designed for DJI Manifold. It doesn't support any other platform.**
+
 ## Requirements
 
 - GStreamer, FFmpeg, libusb (Install already)
