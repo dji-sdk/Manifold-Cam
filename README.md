@@ -70,3 +70,10 @@ To solve it:
 - `d` and `g` cannot be used at the same time
 - DJI GO APP is not necessary. If the APP is running, developers should tap `enter camera view` and it's very important that the APP should always be in camera view mode.
 - The resolution of image frame is 1280 X 720, and the format is NV12
+
+## Other
+
+The resource of Manifold:
+
+1. The user manual: https://dl.djicdn.com/downloads/manifold/en/Manifold_User_Manual__en__v1.0.pdf
+2. The system image: https://dl.djicdn.com/downloads/manifold/manifold_image_v1.0.tar.gz
